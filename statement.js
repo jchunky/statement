@@ -68,3 +68,5 @@ const invoices =
     ]
   }
 ]
+
+statment(invoices[0], plays);
