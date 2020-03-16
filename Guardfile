@@ -6,7 +6,7 @@ ignore(/.rspec_status/)
 ignore(/Gemfile.lock/)
 ignore(/node_modules/)
 
-watch(/.*/) do |match|
+watch(/.*\.js/) do |match|
   path = match[0]
   puts "\n" + '=' * 80 + "\n"
   puts "file: #{path}"
