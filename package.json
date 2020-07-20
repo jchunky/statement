@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "auto-bind": "^3.0.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
